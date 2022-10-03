@@ -1,6 +1,6 @@
 # PHP Function Signature Changer
 
-This python repository helps to change the old PHP function signatures (version < 7.4.0) to new PHP function signatures with type declarations(version >= 7.4.0).
+This repository helps to change the old PHP function signatures (version < 7.4.0) to new PHP function signatures with type declarations(version >= 7.4.0).
 
 More information on the type declaration is available here https://www.php.net/manual/en/language.types.declarations.php
 
