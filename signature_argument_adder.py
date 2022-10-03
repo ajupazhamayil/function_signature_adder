@@ -4,7 +4,7 @@ Input:
  * @param string $databaseId The Spanner database ID.
  * @param string $tableName The name of the table to create, defaults to Singers.
  */
-function foo($instanceId, $databaseId, $tableName): void
+function foo($instanceId, $databaseId, $tableName)
 
 Output:
  * @param string $instanceId The Spanner instance ID.
