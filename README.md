@@ -11,8 +11,8 @@ where `path_to_directory` is the path to the php files' directory
 
 **Note: This script will NOT disturb the existing new PHP function signatures in the directory**
 
-# Requirement
-The script expects proper `@param` comments for all the variables in the function signature.
+# Requirements
+The `python3` script expects proper `@param` comments for all the variables in the function signature.
 
 eg:
 ```
