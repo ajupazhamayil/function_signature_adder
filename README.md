@@ -19,7 +19,7 @@ eg:
  /*
  * @param string $instanceId The Spanner instance ID.
  * @param string $databaseId The Spanner database ID.
- * @param string $tableName The name of the table to create, defaults to Singers.
+ * @param string $tableName The name of the table to create.
  */
 function foo($instanceId, $databaseId, $tableName)
 ```
